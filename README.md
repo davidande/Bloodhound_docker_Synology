@@ -8,10 +8,10 @@ volume1/docker/bloodhound/bloodhound/bloodhound.config.json (only necessary for 
 
   Create a project in Container manager 
   Use the yaml file as project config  
-  create  
-  Retrieve your inital password in the bloodhound container log  
+  Create  
+  Retrieve your inital password in the bloodhound container logs  
   Connect to YOUR_NAS_IP:8080  
-  use admin and your initial password  
+  Use admin and your initial password  
   Change your password  
   
   Enjoy :-)  
