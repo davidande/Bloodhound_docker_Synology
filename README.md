@@ -1,5 +1,5 @@
 # Bloodhound_docker_Synology
-Install Bloodhound on Synology NAS
+Install BloodhoundBloodHound Community Edition on Synology NAS
 
 You have to create directories  
 volume1/docker/bloodhound  
@@ -11,6 +11,8 @@ volume1/docker/bloodhound/bloodhound/bloodhound.config.json (last one only neces
   create  
   Enjoy :-)  
   
+
+  based on: https://github.com/SpecterOps/BloodHound/blob/main/examples/docker-compose/docker-compose.yml
   
 
 
